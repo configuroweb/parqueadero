@@ -1,7 +1,2 @@
-# Smart-parking
-Smart parking portal is a parking guidance and reservation system in towns.
-Looking for spaces to park can be really hectic in busy town in regard to 
-walking distance to your destination from your vehicle, safety of the vehicle,
- payment for the service among others. If one happens to be a stranger in town 
- it gets more difficult to operate around the town. The system solves all this 
- parking cycle issues.
+# Parqueaderos smart-parking
+El portal de estacionamiento inteligente es un sistema de guía y reserva de estacionamiento en las ciudades. Buscar espacios para estacionar puede ser muy agitado en una ciudad ocupada con respecto a distancia a pie a su destino desde su vehículo, seguridad del vehículo,pago por el servicio entre otros. Si uno es extraño en la ciudad se hace más difícil operar alrededor de la ciudad. El sistema resuelve todo esto. Problemas del ciclo de estacionamiento.
